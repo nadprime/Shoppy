@@ -89,7 +89,4 @@ To run tests, run the following command
 - Implementing Machine Learning for Advanced Product Recommendations
 
 
-## Author
-
-- Nadeem Ahmad
 
