@@ -1,8 +1,8 @@
 # Final Year Project
 
-## E-Commerce Website
+## Shoppy - An E-Commerce Platform
 
-The E-Commerce Website project aims to create a modern and feature-rich online platform for buying and selling products. With the exponential growth of e-commerce, this project leverages the MERN (MongoDB, Express.js, React, Node.js) stack to provide a scalable, secure, and user-friendly e-commerce experience. This proposal outlines the objectives, modules, data structures, database design, tools/platforms, hardware/software requirements, and future scope of the project. This project is envisioned to create an online platform that will provide users with a seamless and secure shopping experience.
+The E-Commerce Platform project aims to create a modern and feature-rich online platform for buying and selling products. With the exponential growth of e-commerce, this project leverages the MERN (MongoDB, Express.js, React, Node.js) stack to provide a scalable, secure, and user-friendly e-commerce experience. This proposal outlines the objectives, modules, data structures, database design, tools/platforms, hardware/software requirements, and future scope of the project. This project is envisioned to create an online platform that will provide users with a seamless and secure shopping experience.
 
 ## Screenshots
 ![sc1](https://github.com/user-attachments/assets/804d5c10-2dca-4509-9f7a-df1d91e9225a)
